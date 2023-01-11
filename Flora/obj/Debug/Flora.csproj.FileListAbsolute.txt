@@ -64,9 +64,6 @@ C:\Users\Hassp\Desktop\File\Flora\Flora\obj\Debug\Flora.csproj.CoreCompileInputs
 C:\Users\Hassp\Desktop\File\Flora\Flora\obj\Debug\Flora.csproj.CopyComplete
 C:\Users\Hassp\Desktop\File\Flora\Flora\obj\Debug\Flora.exe
 C:\Users\Hassp\Desktop\File\Flora\Flora\obj\Debug\Flora.pdb
-C:\Users\Hassp\Desktop\Flora\Flora\Flora\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
-C:\Users\Hassp\Desktop\Flora\Flora\Flora\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
-C:\Users\Hassp\Desktop\Flora\Flora\Flora\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
 C:\Users\Hassp\Desktop\Flora\Flora\Flora\bin\Debug\Flora.exe.config
 C:\Users\Hassp\Desktop\Flora\Flora\Flora\bin\Debug\Flora.exe
 C:\Users\Hassp\Desktop\Flora\Flora\Flora\bin\Debug\Flora.pdb
